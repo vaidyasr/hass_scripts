@@ -1,2 +1,2 @@
 # hass_scripts
-Repositry contains various scripts and yaml files to help building sensor in homeassistant.
+The repository contains various scripts and YAML files to help to build a sensor in homeassistant.
